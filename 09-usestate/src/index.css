@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "helvetica neue";
+  color: #fff;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(53, 79, 8);
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: rgb(4, 66, 4);
+  gap: 20px;
+  border-radius: 10px;
+  border: 1px solid rgb(2, 52, 2);
+  box-shadow: 2px 2px 5px black;
+}
+
+h1 {
+  background-color: olivedrab;
+  padding: 10px 70px;
+  margin: 20px;
+  width: fit-content;
+  font-size: 100px;
+  box-shadow: 4px 4px 5px #222;
+  border-radius: 20px;
+}
